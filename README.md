@@ -1,4 +1,4 @@
-![logo](https://github.com/rafizkhan24/rafizkhan24/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.jpg)
+![logo](https://github.com/rafizkhan24/rafizkhan24/blob/main/Blue%20Professional%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rafiz Khan</h1>
 <h3 align="center">Competitive programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
